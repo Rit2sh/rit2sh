@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Chauhan</h1>
-<h3 align="center">A passionate DevOps,BlockChain & AIML ENGINEER from India</h3>
+<h3 align="center">A passionate DevOps,BlockChain & AiMl engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rit2sh&label=Profile%20views&color=0e75b6&style=flat" alt="rit2sh" /> </p>
 
