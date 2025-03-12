@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **DevOps tools and AiMl**
 
-- 📫 How to reach me **rajputanaritesh@gmail.com**
-
 - ⚡ Fun fact **I love to Code**
 
 <h3 align="left">Connect with me:rajputanaritesh@gmail.com</h3>
