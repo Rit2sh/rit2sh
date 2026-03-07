@@ -1,26 +1,90 @@
-<!-- Profile README for Ritesh Chauhan (@Rit2sh) -->
-
 <h1 align="center">Hi 👋, I'm Ritesh Chauhan</h1>
-<h3 align="center">🚀 DevOps • Blockchain • AI/ML Enthusiast | Software Engineer</h3>
+<h3 align="center">Backend Developer | AI & Fintech Builder | Cybersecurity Enthusiast</h3>
+
+<p align="center">
+📍 Patna, India  
+🎓 Computer Science Engineering Student  
+🚀 Passionate about building scalable systems and real-world tech products
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🌍 Based in **Patna, India**  
-- 🔭 I’m currently working on **Blockchain + AI projects**  
-- 🌱 I’m learning **Solidity** & **D3.js**  
-- 💡 I love building full-stack apps and solving real-world problems with code  
-- ⚡ Fun fact: I love to code & create innovative solutions!  
+## 🚀 About Me
+
+- 🔭 Currently building **AI & Fintech applications**
+- 🌱 Learning **System Design, Cloud Infrastructure & Distributed Systems**
+- 💡 Interested in **Cybersecurity, AI Systems, and Fintech Platforms**
+- 👨‍💻 Building projects that solve **real-world problems**
+- 🎯 Goal: Build impactful technology products used by millions
 
 ---
 
-### 🛠️ Tech Toolbox
+## 🛠️ Tech Stack
 
-#### 🚀 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+**Languages**
+- Python
+- JavaScript
+- C++
+- SQL
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Databases**
+- MongoDB
+- PostgreSQL
+- MySQL
+
+**Cloud & DevOps**
+- Docker
+- Linux
+- AWS
+
+**AI & ML**
+- TensorFlow
+- PyTorch
+- Scikit-learn
+
+---
+
+## 🔥 Projects
+
+🚀 **SaarthiNet**  
+Voice-first AI platform with cybersecurity infrastructure for secure digital services.
+
+💳 **Crypto Payment Platform**  
+System enabling crypto payments where merchants receive local fiat currency.
+
+🛡️ **Smart DDoS Protection System**  
+AI-based system designed to detect and mitigate DDoS attacks.
+
+📄 **AI Intelligent Query Retrieval System**  
+Processes documents (PDFs, emails, contracts) and answers queries using AI.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rit2sh&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rit2sh&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: your-email@example.com
+
+---
+
+⭐️ From **Ritesh Chauhan**![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 #### ☁️ DevOps & Cloud
@@ -64,7 +128,7 @@
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/ritesh-chauhan-1a1555251" target="_blank">
+  <a href=" (https://www.linkedin.com/in/ritesh-chauhan-80801b293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/RiteshC95746318" target="_blank">
