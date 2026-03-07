@@ -2,35 +2,84 @@
 <h3 align="center">Backend Developer | AI & Fintech Builder | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-📍 Patna, India  
-🎓 Computer Science Engineering Student  
-🚀 Passionate about building scalable systems and real-world tech products
+<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;AI+%26+Fintech+Builder;Cybersecurity+Enthusiast;Startup+Builder&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🔭 Currently building **AI & Fintech applications**
-- 🌱 Learning **System Design, Cloud Infrastructure & Distributed Systems**
-- 💡 Interested in **Cybersecurity, AI Systems, and Fintech Platforms**
-- 👨‍💻 Building projects that solve **real-world problems**
-- 🎯 Goal: Build impactful technology products used by millions
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Backend Development & System Design
+- 🔐 Interested in Cybersecurity and Secure Systems
+- 🤖 Building AI-powered applications
+- 💡 Exploring Fintech Infrastructure & Scalable Platforms
+- 🚀 Goal: Build impactful technology products used by millions
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack
 
 **Languages**
-- Python
-- JavaScript
-- C++
-- SQL
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 
 **Backend**
-- Node.js
-- Express.js
-- REST APIs
+
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+---
+
+### 🔥 Featured Projects
+
+🚀 **SaarthiNet**  
+Voice-first AI platform with cybersecurity infrastructure for secure digital services.
+
+💳 **Crypto Payment Platform**  
+System enabling crypto payments while merchants receive local fiat currency.
+
+🛡 **Smart DDoS Protection System**  
+AI-powered system to detect and mitigate DDoS attacks.
+
+📄 **AI Intelligent Query Retrieval System**  
+Processes PDFs and documents to answer queries using AI.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rit2sh&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rit2sh&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ritesh-chauhan-80801b293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: rajputanaritesh@gmail.com
+
+---
+
+⭐️ From **Ritesh Chauhan**- REST APIs
 
 **Databases**
 - MongoDB
