@@ -128,8 +128,8 @@ Processes documents (PDFs, emails, contracts) and answers queries using AI.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/ritesh-chauhan-80801b293/
+- Email: rajputanaritesh@gmail.com
 
 ---
 
