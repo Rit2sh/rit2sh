@@ -75,7 +75,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/RiteshChauhan">
+  <a href="https://www.linkedin.com/in/ritesh-chauhan-80801b293/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:rajputanaritesh@gmail.com">
