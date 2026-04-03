@@ -1,82 +1,89 @@
-# 👋 Hi, I'm Ritesh Chauhan
+<h1 align="center">Hi 👋, I'm Ritesh Chauhan</h1>
+<h3 align="center">🚀 AI Engineer | Backend Developer | Building Scalable ML Systems</h3>
 
-🚀 AI Engineer | Backend Developer | Machine Learning Enthusiast  
-
-I’m a final-year Computer Science student passionate about building **scalable backend systems** and **AI-powered applications**.  
-I specialize in developing end-to-end solutions — from model training to deploying production-ready APIs.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Backend+Developer;Machine+Learning+Enthusiast;Building+Real-World+Projects;Open+to+Work" />
+</p>
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on AI + Backend Projects  
-- 🤖 Interested in Machine Learning, NLP & Cybersecurity  
-- 💡 Exploring real-world applications like fraud detection & predictive systems  
-- 🧑‍💻 Solved 300+ DSA problems (LeetCode)  
-- 🌱 Learning advanced system design & cloud architecture  
+- 🔭 Working on AI + Backend Systems  
+- 🤖 Passionate about Machine Learning, NLP & Cybersecurity  
+- 💡 Building real-world solutions (DDoS Protection, AI Chatbots)  
+- 🧑‍💻 Solved 300+ DSA problems  
+- 🌱 Exploring System Design & Cloud  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
-Python • JavaScript • C++ • SQL  
-
-### 🤖 AI / ML
-TensorFlow • PyTorch • Scikit-learn • NLP • Transformers  
-
-### ⚡ Backend
-Node.js • FastAPI • Express.js • REST APIs  
-
-### 🗄 Databases
-PostgreSQL • MongoDB • MySQL  
-
-### ☁️ Cloud & DevOps
-AWS • Docker • Kubernetes • GitHub Actions  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,sql,tensorflow,pytorch,nodejs,fastapi,express,mongodb,postgres,aws,docker,kubernetes,git" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛡 Smart DDoS Shield
-Real-time backend security system to detect and mitigate DDoS attacks using Redis-based rate limiting.
-
 - 🚫 Reduced server overload by ~65%  
-- ⚡ Built scalable microservice architecture  
-- 🧠 Tech: Node.js, Redis, PostgreSQL, Docker  
+- ⚡ Real-time traffic monitoring & rate limiting  
+- 🧠 Node.js • Redis • PostgreSQL • Docker  
 
 ---
 
-### 🤖 Bilingual AI Chatbot (Hindi + English)
-Transformer-based NLP chatbot designed for multilingual user interaction.
-
-- 💡 Intent classification + response generation  
-- 🌍 Supports Hindi & English  
-- ⚙️ Tech: Python, HuggingFace, NLP  
+### 🤖 Bilingual AI Chatbot
+- 🌍 Hindi + English NLP chatbot  
+- 💡 Transformer-based intent classification  
+- ⚙️ Python • HuggingFace  
 
 ---
 
-### 🧠 Deep Learning Image Classifier
-CNN-based image classification system with optimized performance.
-
-- 📊 Improved accuracy using data augmentation  
-- 🔍 Evaluated using precision, recall, F1-score  
-- ⚙️ Tech: PyTorch, TensorFlow  
+### 🧠 Image Classifier
+- 📊 CNN-based model with improved accuracy  
+- 🔍 Precision, Recall, F1-score evaluation  
+- ⚙️ PyTorch • TensorFlow  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rit2sh&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rit2sh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rit2sh&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rit2sh&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit2sh&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/RiteshChauhan  
-- 📧 Email: rajputanaritesh@gmail.com  
-- 💻 GitHub: https://github.com/rit2sh  
+<p align="center">
+  <a href="https://linkedin.com/in/RiteshChauhan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:rajputanaritesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy building systems that combine **AI + Backend + Real-world impact 🚀**
+💡 I love building systems that combine AI + Backend + Real-world impact 🚀
